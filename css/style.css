@@ -17,12 +17,12 @@ hr {
     margin: -32px auto 10px; 
 }
 
-.menu-navigation-top {
+.menu-top {
     padding-left: 50px;
     padding-top: 26.54px;
     padding-bottom: 5px;
 }
-.menu-navigation-title {
+.menu-title {
     text-decoration: none;
     color:#1b1b1b;
     font-family: sans-serif;
