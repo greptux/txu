@@ -1,25 +1,33 @@
 .logo {
-    font-family: Arial;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color:#ffffff;
     background-color: #1b1b18;
-    font-weight:bolder;
+    font-weight:900;
     font-size: 22px;
     padding:3px;
+    margin-left: 10px;
 }
+
+.logo:hover {
+    background-color: #303030bd;
+    color:#ffffff
+}
+
 hr {
+    padding:0px;
     border:none;
   height: 20px;
  	width: 94%;
 	height: 50px;
-	margin-top: 0;
 	border-bottom: 1px solid #25150900;
 	box-shadow: 0 10px 10px -10px rgba(51, 51, 51, 0.475);
-    margin: -32px auto 10px; 
+    margin: -38px 0px 10px; 
 }
 
 .menu-top {
-    padding-left: 50px;
-    padding-top: 26.54px;
+    margin-top: 0px;
+    padding-left: 90px;
+    padding-top: 10px;
     padding-bottom: 5px;
 }
 .menu-title {
@@ -30,6 +38,10 @@ hr {
     font-weight:normal;
     padding-left: 8px;
     padding-right: 8px;
+}
+
+.menu-title:hover {
+    color:#07090aa6
 }
 
 h1 {
